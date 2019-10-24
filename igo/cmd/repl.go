@@ -3,5 +3,5 @@ import (
 	"fmt"
 )
 func main() {
-	fmt.Println("Hello wego");
+	fmt.Println("Hello iGo!");
 }
